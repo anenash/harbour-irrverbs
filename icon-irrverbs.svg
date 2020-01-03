@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="86px"
+   height="86px"
+   viewBox="0 0 86 86"
+   enable-background="new 0 0 86 86"
+   xml:space="preserve"
+   id="svg1520"
+   sodipodi:docname="icon-irrverbs.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata1526"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1524">
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.9977,0,0,0.9977,-0.1211,-0.135)"
+   r="42.7984"
+   cy="43.2344"
+   cx="43.2205"
+   id="SVGID_1_">
+		<stop
+   id="stop1501"
+   style="stop-color:#de6134;stop-opacity:1"
+   offset="0" />
+		<stop
+   id="stop1503"
+   style="stop-color:#da6738;stop-opacity:1"
+   offset="1" />
+	</radialGradient>
+	
+	
+	
+		<linearGradient
+   gradientTransform="matrix(-0.49874356,0.88795111,-0.87186741,-0.48974201,107.88002,30.029023)"
+   y2="33.20052"
+   x2="74.505669"
+   y1="74.917732"
+   x1="11.494334"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_2_">
+		<stop
+   id="stop1510"
+   style="stop-color:#003866"
+   offset="0" />
+		<stop
+   id="stop1512"
+   style="stop-color:#2367A1"
+   offset="1" />
+	</linearGradient>
+	
+	
+<linearGradient
+   inkscape:collect="always"
+   xlink:href="#SVGID_1_"
+   id="linearGradient841"
+   x1="1.0058824"
+   y1="84.764709"
+   x2="85.463707"
+   y2="0.7647059"
+   gradientUnits="userSpaceOnUse" /><linearGradient
+   gradientTransform="matrix(-0.49874356,0.88795111,-0.87186741,-0.48974201,108.40943,33.676084)"
+   y2="33.20052"
+   x2="74.505669"
+   y1="74.917732"
+   x1="11.494334"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_2_-3"><stop
+     id="stop1510-6"
+     style="stop-color:#003866"
+     offset="0" /><stop
+     id="stop1512-7"
+     style="stop-color:#2367A1"
+     offset="1" /></linearGradient></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="996"
+   id="namedview1522"
+   showgrid="false"
+   inkscape:zoom="3.0052038"
+   inkscape:cx="81.26283"
+   inkscape:cy="35.235718"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1520" />
+<g
+   id="Layer_2"
+   display="none">
+</g>
+
+<g
+   id="g884"
+   inkscape:export-filename="/home/user/SailfishPrj/harbour-irrverbs/icons/86x86/harbour-irrverbs.png"
+   inkscape:export-xdpi="96.674477"
+   inkscape:export-ydpi="96.674477"><path
+     d="m 84.277,0.3 c 0,0 -39.494,0 -41.277,0 C 19.417,0.3 0.3,19.417 0.3,43 c 0,1.783 0,41.277 0,41.277 0,0.786 0.637,1.423 1.423,1.423 h 47.444 35.109 c 0.786,0 1.423,-0.637 1.423,-1.423 V 49.168 1.723 C 85.7,0.937 85.063,0.3 84.277,0.3 Z"
+     id="path1506"
+     style="fill:url(#linearGradient841);fill-opacity:1"
+     inkscape:connector-curvature="0" /><g
+     transform="matrix(0.87784059,0,0,0.86318179,8.2220203,5.3754297)"
+     id="g869"><path
+       inkscape:connector-curvature="0"
+       style="fill:url(#SVGID_2_-3);stroke:#003866;stroke-width:1.00917351;stroke-opacity:1"
+       id="path1515-5"
+       d="M 6.9745027,64.189396 C 6.0581707,63.674677 5.7381487,62.5067 6.2588367,61.579679 L 36.193427,8.2848556 c 0.520688,-0.927022 1.685457,-1.260968 2.600917,-0.746738 L 72.790202,26.634131 c 0.916333,0.51472 1.236356,1.682697 0.715666,2.609718 L 43.571276,82.538674 c -0.520688,0.927022 -1.685457,1.260968 -2.600917,0.746739 z" /><path
+       inkscape:connector-curvature="0"
+       style="fill:url(#SVGID_2_);stroke:#003866;stroke-width:1.00917351;stroke-opacity:1"
+       id="path1515"
+       d="M 6.445094,60.542334 C 5.5287617,60.027615 5.2087392,58.859638 5.7294278,57.932617 L 35.664018,4.6377942 C 36.184706,3.7107729 37.349475,3.376827 38.264935,3.8910561 L 72.260793,22.987069 c 0.916333,0.51472 1.236356,1.682697 0.715666,2.609718 L 43.041867,78.891612 c -0.520688,0.927022 -1.685457,1.260968 -2.600917,0.746739 z" /></g><text
+     transform="rotate(27.386837)"
+     id="text873"
+     y="7.7116184"
+     x="56.701378"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.13740826px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e4cb00;fill-opacity:1;stroke:none;stroke-width:0.30343518"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';fill:#e4cb00;fill-opacity:1;stroke-width:0.30343518"
+       y="7.7116184"
+       x="56.701378"
+       id="tspan871"
+       sodipodi:role="line">irr</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';fill:#e4cb00;fill-opacity:1;stroke-width:0.30343518"
+       id="tspan875"
+       y="22.883379"
+       x="56.701378"
+       sodipodi:role="line">verbs</tspan></text>
+</g></svg>

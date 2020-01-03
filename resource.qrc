@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/pages/Verbs.json</file>
+    </qresource>
+</RCC>
